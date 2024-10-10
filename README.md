@@ -3,4 +3,4 @@ To run the project:
 2. Open the terminal, then type "npm install"
 3. Run the command "npm run dev", then click on the localhost link to start viewing the project
 
-**If there is a cursor keeps blinking wherever you click please press F7
+** If there is a cursor keeps blinking wherever you click please press F7
