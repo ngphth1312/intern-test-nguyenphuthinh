@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eeeeee;
+    height: 100vh;
+}
+
+.content_wrapper{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    /* width: 45%;
+    height: 80%; */
+    min-width: 650px;
+    min-height: 600px;
+    align-items: center;
+    padding: 21px;
+}
+
+.content_header_container{
+    width: 100%;
+    /* background-color: #0f0; */
+    padding: 10px;
+}
+
+.txt_title{
+    margin-top: 0px;
+}
+
