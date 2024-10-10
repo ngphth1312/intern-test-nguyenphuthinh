@@ -202,7 +202,7 @@ function App() {
                }}
              />
            </Button>
-           <div style={{height: 40}}>
+           <div style={{ height: 40 }}>
              {uploadedFile && (
                <p className={styles.file_upload_message}>
                  File đã được tải lên: <u>{uploadedFile.name}</u>
